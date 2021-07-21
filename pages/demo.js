@@ -25,7 +25,7 @@ export default function Demo() {
 				
 				<div className="w-auto align-center justify-center">
 					<iframe
-					src="https://appetize.io/embed/rb306vv90qhg54j7w6750c04rm?device=iphone12pro"
+					src="https://appetize.io/embed/ztuxyt3mh0n8rqhw77d81w8kx8?device=iphone12pro"
 					width="378px" height="800px" frameBorder="0" scrolling="no"></iframe>
 				</div>
 			</div>
